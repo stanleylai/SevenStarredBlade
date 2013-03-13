@@ -2,9 +2,10 @@ Seven Starred Blade - Chronicles of Zhong Kui
 =================
 
 2D Platformer built in Unity.
-Developed as part of IAT410 Advanced Game Design with the School of Interactive Art + Technology at Simon Fraser University.
+Developed as part of IAT410 Advanced Game Design with the
+School of Interactive Art + Technology at Simon Fraser University.
 
-No art assets and propietary libraries included, only written code and project files.
+No art assets and propietary libraries included, only game logic code and level files.
 Please contact me for a playable demo.
 
 Collaboration with:
